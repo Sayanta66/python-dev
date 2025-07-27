@@ -8,9 +8,11 @@ Prints the sum of two numbers
 Product = a*b
 Divide = a / b
 Modular = a % b
+Power = a ** b
 print(Sum)
 print(Difference)
 print(Product)
 print(Divide)
 print(Modular)
 print(a + b)
+print(Power)
