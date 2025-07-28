@@ -13,3 +13,9 @@ print(sum1)
 len = int(input("Enter the length of the square: "))
 area = len * len
 print("Area of the square is: ", area)
+
+a = float(input("Enter the first number: "))
+b = float(input("Enter the second number: "))
+sum = a+b
+average = sum/2
+print("Average of the numbers is: ", average)
