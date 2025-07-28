@@ -11,3 +11,8 @@ b = 82.996
 
 sum = a + b
 print(sum)
+
+a = 25.60
+b = str(a)
+
+print(type(b))
