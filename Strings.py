@@ -11,3 +11,4 @@ print(str1+str2)
 str3 = "Sayanta"
 str4 = "Banerjee"
 print(str3+" "+str4)
+print(str3[0])
