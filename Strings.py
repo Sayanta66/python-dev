@@ -6,3 +6,8 @@ print(str1)
 
 str2 = "40k is needed to stay in Gurgaon.\t 50k is needed to stay in Bangalore."
 print(str2)
+print(str1+str2)
+
+str3 = "Sayanta"
+str4 = "Banerjee"
+print(str3+" "+str4)
