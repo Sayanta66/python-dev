@@ -1,10 +1,10 @@
-# n = int(input("Enter a number: "))
-# if(n==999):
-#     print("This is the greatest number")
-# elif(100<n<999):
-#     print("This is a normal three digit number")
-# else:
-#     print("This is not a valid entry")
+n = int(input("Enter a number: "))
+if(n==999):
+    print("This is the greatest number")
+elif(100<n<999):
+    print("This is a normal three digit number")
+else:
+    print("This is not a valid entry")
 
 a = int(input())
 b = int(input())
