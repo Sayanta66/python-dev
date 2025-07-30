@@ -13,3 +13,12 @@ elif(n%2==0 and n>=80):
     print("Super Marks")
 else:
     print("Unlucky Marks")
+
+age = int(input("Enter age: "))
+if(age>20):
+    if(age>=80):
+        print("Not possible to drive")
+    else:
+        print("Driving license granted")
+else:
+    print("No permission to drive")
