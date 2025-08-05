@@ -8,3 +8,9 @@ age = [22, 80, 65, 76, 99]
 particular group of people."""
 age.sort(reverse=True)
 print(age)
+
+names = ["Sayanta", "Adita", "Debtanu", "Ranit"]
+names.sort(reverse=True)
+print(names)
+names.reverse()
+print(names)
