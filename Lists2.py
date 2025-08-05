@@ -20,5 +20,5 @@ print(names)
 numbers = [22, 50, 16, 40, 55]
 numbers.remove(50)
 print(numbers)
-# numbers.pop(1)
-# print(numbers)
+numbers.pop(1)
+print(numbers)
