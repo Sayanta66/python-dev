@@ -7,3 +7,6 @@ print(num)
 
 num1 = (1.0, "hello", 1)
 print(type(num1))
+
+tup = (1,2,2,4,4,6)
+print(tup.count(2))
