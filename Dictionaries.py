@@ -12,3 +12,6 @@ print(student_info["firstname"])
 student_info["firstname"] = "Adita"
 student_info["lastname"] = "Pal"
 print(student_info)
+
+null_dict = {}
+print(null_dict)
