@@ -26,3 +26,4 @@ player = {
     }   
 }
 print(player)
+print(player["Stats"])
