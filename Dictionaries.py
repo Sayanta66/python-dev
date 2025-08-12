@@ -7,3 +7,4 @@ student_info = {
 }
 print(student_info)
 print(type(student_info))
+print(student_info["firstname"])
