@@ -32,3 +32,4 @@ print(player.keys())
 print(player["Stats"].keys())
 
 print(list(player.keys()))
+print(list(player["Stats"].keys()))
