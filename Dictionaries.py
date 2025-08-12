@@ -8,3 +8,7 @@ student_info = {
 print(student_info)
 print(type(student_info))
 print(student_info["firstname"])
+
+student_info["firstname"] = "Adita"
+student_info["lastname"] = "Pal"
+print(student_info)
