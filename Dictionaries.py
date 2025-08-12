@@ -28,3 +28,4 @@ player = {
 print(player)
 print(player["Stats"])
 print(player["Stats"]["Attack"])
+print(player.keys())
