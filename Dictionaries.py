@@ -35,3 +35,15 @@ print(list(player.keys()))
 print(list(player["Stats"].keys()))
 print(len(list(player.keys())))
 print(len(player.keys()))
+
+employee = {
+    "Firstname" : "Sayanta",
+    "Lastname" : "Banerjee",
+    "Company" : "Keysight Technologies",
+    "Years of experience" : 4.2,
+    "Skills" : {
+        "Core" : "Documentation",
+        "Secondary" : "DevOps",
+        "Tertiary" : "Development"
+    }
+}
