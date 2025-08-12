@@ -21,7 +21,8 @@ player = {
     "Lastname" : "Messi",
     "Stats" : {
         "Attack" : 95,
-        "Defence" : 75
+        "Defence" : 75,
+        "Goals Per Game" : 2.5 
     }   
 }
 print(player)
