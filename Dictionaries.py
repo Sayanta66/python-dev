@@ -6,3 +6,4 @@ student_info = {
     "Sections" : ("A", "B")
 }
 print(student_info)
+print(type(student_info))
