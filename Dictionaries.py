@@ -48,3 +48,4 @@ employee = {
     }
 }
 print(employee.values())
+print(employee.items())
