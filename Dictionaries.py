@@ -47,3 +47,4 @@ employee = {
         "Tertiary" : "Development"
     }
 }
+print(employee.values())
