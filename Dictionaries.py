@@ -30,3 +30,5 @@ print(player["Stats"])
 print(player["Stats"]["Attack"])
 print(player.keys())
 print(player["Stats"].keys())
+
+print(list(player.keys()))
