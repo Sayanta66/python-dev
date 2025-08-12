@@ -15,3 +15,13 @@ print(student_info)
 
 null_dict = {}
 print(null_dict)
+
+player = {
+    "Firstname" : "Lionel",
+    "Lastname" : "Messi",
+    "Stats" : {
+        "Attack" : 95,
+        "Defence" : 75
+    }   
+}
+print(player)
