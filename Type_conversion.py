@@ -1,4 +1,3 @@
-# Type_Conversion
 a = 20
 b = 55.685
 
@@ -12,6 +11,7 @@ b = 82.996
 sum = a + b
 print(sum)
 
+# Type_Conversion
 a = 25.60
 b = str(a)
 
