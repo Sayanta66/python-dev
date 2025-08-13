@@ -53,5 +53,5 @@ print(employee["Skills"].items())
 print(list(employee.values()))
 print(list(employee.items()))
 
-employee = list(employee.items())
-print(employee[0])
+employee1 = list(employee.items())
+print(employee1[0])
