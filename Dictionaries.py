@@ -55,3 +55,5 @@ print(list(employee.items()))
 
 employee1 = list(employee.items())
 print(employee1[0])
+
+print(employee.get("Firstname"))
