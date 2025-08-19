@@ -69,4 +69,5 @@ player2 = {
     }   
 }
 player2["Stats"].update({"Country" : "India"})
+print(player2)
 print(player2["Stats"])
