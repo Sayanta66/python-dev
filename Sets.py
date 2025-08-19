@@ -7,4 +7,5 @@ teams = {"Barcelona", "Real Madrid", "Manchester", "Manchester", "Chelsea"}
 print(teams)
 
 teams2 = set()
+teams2.add(1)
 print(teams2)
