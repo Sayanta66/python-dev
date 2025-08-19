@@ -58,3 +58,15 @@ print(employee1[0])
 
 print(employee.get("Firstname"))
 print(employee.get("firstname"))
+
+player2 = {
+    "Firstname" : "Christiano",
+    "Lastname" : "Ronaldo",
+    "Stats" : {
+        "Attack" : 90,
+        "Defence" : 65,
+        "Goals Per Game" : 2.2 
+    }   
+}
+player2["Stats"].update({"Country" : "India"})
+print(player2["Stats"])
