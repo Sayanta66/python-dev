@@ -1,0 +1,2 @@
+players = {"Messi", "Ronaldo", "Neymar", "Aguero"}
+print(players)
