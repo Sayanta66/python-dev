@@ -21,3 +21,6 @@ set1 = set_new.clear()
 print(set1)
 print(set_new.pop())
 print(set_new)
+
+marks = {45, 66, 80, 98, 75}
+print(marks)
