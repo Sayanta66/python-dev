@@ -18,9 +18,10 @@ print(teams2)
 set_new={1, 2, 5, 5, 9, 2, "Good", "Nice"}
 print(set_new)
 set1 = set_new.clear()
-print(set1)
-print(set_new.pop())
+# print(set1)
+# print(set_new.pop())
 print(set_new)
 
 marks = {45, 66, 80, 98, 75}
-print(marks)
+subjects = {"Maths", "Chemistry", "Biology", "Physics", "Programming"}
+print(marks.union(subjects))
