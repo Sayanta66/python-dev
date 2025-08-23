@@ -25,3 +25,8 @@ print(set_new)
 marks = {45, 66, 80, 98, 75}
 subjects = {"Maths", "Chemistry", "Biology", "Physics", "Programming"}
 print(marks.union(subjects))
+
+set1 = {1, 2, 3, 4}
+set2 = {5, 6, 2, 3, 7, 8}
+new_set = set1.union(set2)
+print(new_set)
